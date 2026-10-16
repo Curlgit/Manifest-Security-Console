@@ -21,7 +21,7 @@ Security-Project/
 ## Installation
 
 ```bash
-git clone https://github.com/git/Manifest-Security-Console.git
+git clone https://github.com/Curlgit/Manifest-Security-Console.git
 ```
 ```bash
 cd Manifest-Security-Console
