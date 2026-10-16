@@ -21,7 +21,7 @@ Security-Project/
 ## Installation
 
 ```bash
-git clone https://github.com/RIS/Manifest-Security-Console.git
+git clone https://github.com/Curlgit/Manifest-Security-Console.git
 ```
 ```bash
 cd Manifest-Security-Console
@@ -78,4 +78,4 @@ Use this software only on systems and networks you own or have permission to tes
 
 ## Developer
 
-RIS
+Curlgit
